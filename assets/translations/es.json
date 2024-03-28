@@ -354,5 +354,18 @@
     "popup-menu-item-chat-settings": "Ajustes del chat",
     "popup-menu-item-invite-friends": "Invita a tus amigos",
     "popup-menu-item-mute-notifications": "Silenciar notificaciones",
-    "semantics-image-empty-chat-list": "Varios monstruos pequeños y bonitos asomándose detrás del follaje."
+    "semantics-image-empty-chat-list": "Varios monstruos pequeños y bonitos asomándose detrás del follaje.",
+    "label-proxy-username": "Usuario",
+    "label-password": "contraseña",
+    "tooltip-search-users": "Buscar usuarios",
+    "label-proxy-host": "Nombre del Host",
+    "label-proxy-password": "Contraseña",
+    "tooltip-profile-settings": "Perfil y Configuración",
+    "tooltip-search-chats": "Buscar Conversaciones",
+    "label-proxy-port": "Puerto",
+    "tooltip-message-details": "Detalles del Mensaje",
+    "tooltip-delete-message": "Borrar Mensaje",
+    "tooltip-edit-message": "Editar Mensaje",
+    "tooltip-copy-message-content": "Copiar Contenido del Mensaje",
+    "tooltip-share-chats": "Compartir Conversaciones"
 }
