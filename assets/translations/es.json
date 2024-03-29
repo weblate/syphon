@@ -169,7 +169,7 @@
     "content-signup-captcha-requirement": "Este homeserver requiere un captcha\n antes de que puedas crear una cuenta.",
     "confirm-encryption": "Después de que encriptar un chat, no vas a poder volver a enviar mensajes desencriptados. ¿Estás seguro que quieres encriptar este chat?",
     "tooltip-cancel-reply": "Cancelar Respuesta",
-    "tooltip-search-unencrypted": "Búsqueda no cifrada",
+    "tooltip-search-unencrypted": "Buscar sin cifrar",
     "list-item-read-by": "Visto Por",
     "content-dialog-devices-delete": "Tendrás que volver a iniciar sesión en estos dispositivos si los eliminas.",
     "content-signup-email-requirement": "Este servidor requiere un correo electrónico para registrarse. Tu correo electrónico será visible para quien o quienes controlen el servidor. Asegúrate de que confías en este servidor antes de enviar esta información",
@@ -367,5 +367,7 @@
     "tooltip-delete-message": "Borrar Mensaje",
     "tooltip-edit-message": "Editar Mensaje",
     "tooltip-copy-message-content": "Copiar Contenido del Mensaje",
-    "tooltip-share-chats": "Compartir Conversaciones"
+    "tooltip-share-chats": "Compartir Conversaciones",
+    "semantics-close-actions-ring": "Cerrar las acciones del timbre",
+    "semantics-open-actions-ring": "Abrir las acciones del timbre"
 }
