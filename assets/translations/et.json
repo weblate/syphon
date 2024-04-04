@@ -262,5 +262,17 @@
     "popup-menu-item-all-media": "Kõik meedia",
     "popup-menu-item-chat-settings": "Vestluse seadistused",
     "popup-menu-item-invite-friends": "Kutsu sõpru liituma",
-    "label-proxy-host": "Serveri nimi"
+    "label-proxy-host": "Serveri nimi",
+    "label-syncing-chats": "sünkroniseerime vestlusi…",
+    "list-item-advanced-settings-stop-background": "Peata kõik teenused",
+    "subtitle-settings-sync-interval": "Sünkroniseerimiste vaheline välp sekundites,\nmillal rakendus on ootel",
+    "list-item-advanced-settings-start-background": "Käivita taustateenus",
+    "list-item-advanced-settings-test-notifications": "Testi teavitusi",
+    "header-ordering": "Järjestamine",
+    "list-item-user-details-invite-to-room": "Saada kutse jututuppa",
+    "title-dialog-photo-permission": "Õigused on vajalikud",
+    "label-show-attachment-options": "Ava manuste eelmistused",
+    "label-import-session-keys": "Taasta krüptovõtmed",
+    "label-export-session-keys": "Varunda krüptovõtmed",
+    "popup-menu-item-mute-notifications": "Summuta teavitused"
 }
