@@ -274,5 +274,9 @@
     "label-show-attachment-options": "Ava manuste eelmistused",
     "label-import-session-keys": "Taasta krüptovõtmed",
     "label-export-session-keys": "Varunda krüptovõtmed",
-    "popup-menu-item-mute-notifications": "Summuta teavitused"
+    "popup-menu-item-mute-notifications": "Summuta teavitused",
+    "alert-copied-to-clipboard": "Kopeeritud lõikelauale",
+    "list-item-advanced-settings-licenses": "Avatud lähtekoodiga tarkvara litsentsid",
+    "warning-deactivate-account": "JÄRGNEVAGA KUSTUTATAKSE SINU KASUTAJAKONTO JÄÄDAVALT\n\nPärast seda toimingu ei saa lugeda varasemaid andmeid ega ühelgi viisil ligi antud kasutajakontole.\nEnne kui jätkad, palun kaalu hoolikalt võimalikke tagajärgi!",
+    "warning-deactivate-account-final": "Peale selle kasutajakonto kustutamist pole ühtegi võimalust tema hilisemaks taastamiseks. Sind logitakse oma kontolt koheselt välja ja ta edaspidiseks muutub ta kasutuskõlbmatuks.\n\nSee on nüüd viimane hoiatus enne kasutajakonto deaktiveerimist. Kui oled endas kindel, siis palun vajuta alljärgnevat deaktiveerimisnuppu."
 }
