@@ -302,7 +302,7 @@
     "list-item-settings-force-full-sync": "Forcer la synchronisation complète",
     "content-logout-confirm": "Voulez-vous vraiment vous déconnecter ?",
     "content-logout-multiaccount-confirm": "\n\nComme vous avez d'autres comptes, la déconnexion vous fera passer à une autre session de compte.",
-    "content-remove-screen-lock": "Voulez-vous vraiment supprimer le verrouillage de l'écran ? Ceci supprimera également la protection par NIP du cache",
+    "content-remove-screen-lock": "Voulez-vous vraiment supprimer le verrouillage de l'écran ? Ceci supprimera également la protection par NIP du cache",
     "title-dialog-logout": "Se déconnecter",
     "header-media": "Média",
     "subtitle-settings-24h-format": "Afficher l'horodatage des messages au format 24 heures",
