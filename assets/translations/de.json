@@ -288,7 +288,7 @@
     "list-item-settings-manual-sync": "Manuelle Synchronisation",
     "list-item-settings-force-full-sync": "Volle Synchronisation erzwingen",
     "content-logout-confirm": "Sind Sie sicher, dass Sie sich abmelden wollen?",
-    "content-remove-screen-lock": "Sind Sie sicher, dass Sie die Bildschirmsperre entfernen möchten? Dadurch wird auch der Pin-Schutz des Cache entfernt",
+    "content-remove-screen-lock": "Sind Sie sicher, dass Sie die Bildschirmsperre entfernen möchten? Dadurch wird auch der PIN-Schutz des Cache entfernt",
     "list-item-settings-auto-download": "Automatisches Herunterladen",
     "header-general": "Allgemein",
     "header-media": "Medien",
@@ -367,5 +367,7 @@
     "list-item-mute-for-one-hour": "Für 1 St. stummschalten",
     "list-item-mute-for-hours": "Für {} St. stummschalten",
     "list-item-mute-for-days": "Für {} Tage stummschalten",
-    "list-item-settings-read-receipts": "Lesebestägigungen"
+    "list-item-settings-read-receipts": "Lesebestägigungen",
+    "label-import-session-keys": "Sitzungsschlüssel wiederherstellen",
+    "label-export-session-keys": "Sicherungsschlüssel"
 }
